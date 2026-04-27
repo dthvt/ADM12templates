@@ -1,5 +1,5 @@
-# CHANGELOG
+# Changelog
 
-## <DOCUMENT VERSION> - <ARTIFACT VERSION>
+## Document version - artifact version 
 
-<RELEASE CHANGE CONTENT>
+RELEASE CHANGE CONTENT
