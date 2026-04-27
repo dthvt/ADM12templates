@@ -20,9 +20,10 @@
 ---
 
 ## Folders and Files
-* [CHANGELOG.md](CHANGELOG.md) - Changelog for the repository.
-* [LICENSE.md](LICENSE.md) - License file for the repository.
 * [README.md](README.md) - This document.
+* [NOTICE.md](notice.md)- Notice for this repository.
+* [LICENSE.md](license.md) - License  for the repository.
+* [CHANGELOG.md](changelog.md) - Changelog for the repository.
 
 ---
 
