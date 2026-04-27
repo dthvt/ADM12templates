@@ -38,8 +38,7 @@
 The owner of this repository approves all changes to the repository.
 
 This repository is owned by the 
-<mark>[NENA Data Structures Committee](https://www.nena.org/page/DataStructures), 
-DS-GIS Template working group.</mark>
+<mark>[Data Structures & Management Committee](https://www.nena.org/page/DataStructures).</mark>
 
 **Contact:**
 
@@ -57,8 +56,6 @@ what you're looking for, feel free to submit a new issue.
 ---
 
 ## Contributing
-
-**Subject to change pending process finalization**
 
 The NENA Example Working Group welcomes contributions from anyone and 
 everyone. There are many ways you can contribute to this repository.
