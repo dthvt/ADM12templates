@@ -20,7 +20,7 @@
 ---
 
 ## Folders and Files
-* [README.md](README.md) - This document.
+* [README.md](readme.md) - This document.
 * [NOTICE.md](notice.md)- Notice for this repository.
 * [LICENSE.md](license.md) - License  for the repository.
 * [CHANGELOG.md](changelog.md) - Changelog for the repository.
