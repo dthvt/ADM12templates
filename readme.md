@@ -143,7 +143,7 @@ Copyright &copy; <mark>YYYY[-YYYY]</mark> National Emergency Number Association
 Licensed under the Apache License, Version 2.0 (the "License"); you may not 
 use these files except in compliance with the License. You may obtain a copy 
 of the License at http://www.apache.org/licenses/LICENSE-2.0. A copy of the 
-License is available in the repository's [LICENSE](LICENSE.md) file.
+License is available in the repository's [LICENSE](license.md) file.
 
 Unless required by applicable law or agreed to in writing, software 
 distributed under the License are distributed on an "AS IS" BASIS, WITHOUT 
