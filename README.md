@@ -85,10 +85,7 @@ to submit comments while documents are under revision or review. More informatio
 
 ### Submitting changes
 1. Push the changes in your feature branch to your repository.
-2. Submit a [pull request](https://help.github.com/articles/using-pull-requests).  
-   Submitting a pull request will open a GitHub issue.
-    * Clearly describe the issue including steps to reproduce; or if an 
-      enhancement, indicate the functionality you built.
+2. Submit a [pull request](https://help.github.com/articles/using-pull-requests).
 
 ### License of contributed code
 By contributing your code, you agree to license your contribution under the 

@@ -15,7 +15,6 @@
 * [Other References](#other-references)
 * [NENA Ethics & Code of Conduct Policy](#nena-ethics--code-of-conduct-policy)
 * [NENA Intellectual Property Rights & Antitrust Policy](#nena-intellectual-property-rights--antitrust-policy)
-* [License](#license)
 
 ---
 
@@ -84,10 +83,7 @@ The best way to contribute is to join the Example working group and to submit co
 
 ### Submitting changes
 1. Push the changes in your feature branch to your repository.
-2. Submit a [pull request](https://help.github.com/articles/using-pull-requests).  
-   Submitting a pull request will open a GitHub issue.
-    * Clearly describe the issue including steps to reproduce; or if an 
-      enhancement, indicate the functionality you built.
+2. Submit a [pull request](https://help.github.com/articles/using-pull-requests).
 
 ### License of contributed code
 By contributing your code, you agree to license your contribution under the 
@@ -132,22 +128,3 @@ conduct its daily work. The objectives of this policy are to:
    standards are not unreasonably inhibited by IPR licensing requirements.
 
 See the full policy [here](https://www.nena.org/general/custom.asp?page=ipr).
-
----
-
-## License and Notice
-
-Copyright &copy; <mark>YYYY[-YYYY]</mark> National Emergency Number Association 
-<mark>[or name of other copyright owner]</mark>
-
-Licensed under the Apache License, Version 2.0 (the "License"); you may not 
-use these files except in compliance with the License. You may obtain a copy 
-of the License at http://www.apache.org/licenses/LICENSE-2.0. A copy of the 
-License is available in the repository's [LICENSE](license.md) file.
-
-Unless required by applicable law or agreed to in writing, software 
-distributed under the License are distributed on an "AS IS" BASIS, WITHOUT 
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. 
-
-See the License for the specific language governing permissions and limitations 
-under the License.
