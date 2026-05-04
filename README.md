@@ -48,7 +48,7 @@ This repository is owned by the
 
 **Contact:**
 
-[Interface Specification Development Working Group Repository Contacts](mailto:XXXXX@nena.org)
+[Interface Specification Development Working Group Repository Contacts](mailto:adm12templates-contacts@nena.org)
 
 ---
 
