@@ -23,6 +23,10 @@ This repository contains template markdown files for use with NENA artifact repo
 * [NOTICE.md](templates/NOTICE.md)- The template license NOTICE.md for the repository.
 * [LICENSE.md](templates/LICENSE.md) - The template license for the repository.
 * [CHANGELOG.md](templates/CHANGELOG.md) - The template CHANGELOG for the repository.
+* [README.md](README.md) - This document.
+* [NOTICE.md](NOTICE.md)- Notice for this repository.
+* [LICENSE.txt](LICENSE.txt) - License  for the repository.
+* [CHANGELOG.md](CHANGELOG.md) - Changelog for the repository.
 
 ---
 
