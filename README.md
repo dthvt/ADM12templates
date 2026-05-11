@@ -1,0 +1,132 @@
+# NENA-ADM-012 Repository Templates
+
+This repository contains template markdown files for use with NENA artifact repositories.
+
+---
+## Table of Contents
+
+* [Folders and Files](#folders-and-files)
+* [Usage](#usage)
+* [Owner](#owner)
+* [Version History](#version-history)
+* [Issues](#issues)
+* [Contributing](#contributing)
+* [Associated Documents](#associated-documents)
+* [Other References](#other-references)
+* [NENA Ethics & Code of Conduct Policy](#nena-ethics--code-of-conduct-policy)
+* [NENA Intellectual Property Rights & Antitrust Policy](#nena-intellectual-property-rights--antitrust-policy)
+
+---
+
+## Folders and Files
+* [README.md](templates/README.md) - The template README.md for the repository.
+* [NOTICE.md](templates/NOTICE.md)- The template license NOTICE.md for the repository.
+* [LICENSE.md](templates/LICENSE.md) - The template license for the repository.
+* [CHANGELOG.md](templates/CHANGELOG.md) - The template CHANGELOG for the repository.
+* [README.md](README.md) - This document.
+* [NOTICE.md](NOTICE.md)- Notice for this repository.
+* [LICENSE.txt](LICENSE.txt) - License  for the repository.
+* [CHANGELOG.md](CHANGELOG.md) - Changelog for the repository.
+
+---
+
+## Usage
+
+When creating a new artifact repository, authors should include the four 
+markdown files found in the `templates` directory in the root of the 
+repository. Each template file MUST be customized in accordance with 
+NENA-ADM-012.2-2026.
+
+---
+
+## Owner
+
+The owner of this repository approves all changes to the repository.
+
+This repository is owned by the 
+[Interface Specification Development Working Group](https://www.nena.org/page/Join_ISDWG).
+
+**Contact:**
+
+[Interface Specification Development Working Group Repository Contacts](mailto:adm12templates-contacts@nena.org)
+
+---
+
+## Issues
+Found a bug or want to suggest an enhancement? Check out previously logged 
+[Issues](https://github.com/NENA911/ADM12Templates/issues). If you don't see 
+what you're looking for, feel free to submit a new issue.
+
+---
+
+## Contributing
+
+The NENA Interface Specification Development Working Group welcomes contributions from anyone and 
+everyone. There are many ways you can contribute to this repository.
+
+The best way to contribute is to join the Interface Specification Development Working Group and 
+to submit comments while documents are under revision or review. More information at https://www.nena.org/page/Join_ISDWG.
+
+* Suggest enhancements or code changes as GitHub issues.
+* Report potential bugs to GitHub issues.
+* Contribute code, as pull requests, to the repository. If you are new
+  to GitHub, [Git and GitHub Tutorials #4](https://www.youtube.com/watch?v=nT8KGYVurIU) 
+  provides a good overview of creating forks and pulls to contribute.
+
+### Contribute code improvements
+
+1. Make sure you have a [GitHub account](https://github.com/signup/free).
+2. [Fork](https://help.github.com/articles/fork-a-repo) the repo on GitHub.
+3. Clone this repository to your local machine.
+4. Create a new feature branch on your local machine.
+    * The name of the branch doesn't matter, but as a best practice use a 
+      descriptive name like "updated-PrePostStreetName-domain".
+5. Write code to add an enhancement or fix a problem.
+    * Document your code.
+    * Make commits of logical units.
+    * Use [clear and descriptive commit messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
+6. Test your code.
+
+### Submitting changes
+1. Push the changes in your feature branch to your repository.
+2. Submit a [pull request](https://help.github.com/articles/using-pull-requests).
+
+### License of contributed code
+By contributing your code, you agree to license your contribution under the 
+terms of the [Apache License 2.0](LICENSE.md).
+
+---
+
+## Associated Documents
+
+- NENA-ADM-012.2-2026 - NENA Rules for Use of Version Control Repositories
+
+---
+
+## Other References
+
+None.
+
+---
+
+## NENA Ethics & Code of Conduct Policy
+
+By contributing to this repository, you agree to adhere to NENA's Ethics and Code of Conduct Policy available 
+[here](https://www.nena.org/page/codeofconduct).
+
+---
+
+## NENA Intellectual Property Rights & Antitrust Policy
+
+
+NENA requires an explicit Intellectual Property Rights & Antitrust Policy to 
+conduct its daily work. The objectives of this policy are to:
+
+1. Ensure that Members' and participating Entities’ IPR are protected;
+2. Promote awareness of IPR issues among NENA Committees so as to permit 
+   informed decision-making about the trade-offs associated with technical 
+   alternatives encountered in committee work; and
+3. Ensure that implementers producing products or services based on NENA 
+   standards are not unreasonably inhibited by IPR licensing requirements.
+
+See the full policy [here](https://www.nena.org/general/custom.asp?page=ipr).
